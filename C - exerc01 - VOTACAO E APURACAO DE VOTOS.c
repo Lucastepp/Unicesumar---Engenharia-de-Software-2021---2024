@@ -31,7 +31,7 @@ int main() {
 		printf(" Bem Vindo, escolha uma opcao para continuar: \n");
 		printf("----------------------------------------------\n");
 		printf(" 1 - Votar------------------------------------\n");
-		printf(" 2 - Apuração dos votos-----------------------\n");
+		printf(" 2 - ApuraÃ§Ã£o dos votos-----------------------\n");
 		printf(" 3 - Sair-------------------------------------\n");
 	
 	
@@ -177,7 +177,7 @@ int main() {
 		
 			if(var1 == 2){	
 	
-				printf("-------------Apuração dos votos----------------\n");
+				printf("-------------ApuraÃ§Ã£o dos votos----------------\n");
 				printf("-----------------------------------------------\n");
 				printf("----------------PARA VEREADOR------------------\n");
 				printf("----------Vereador Joao do Frete = %d ---------\n", ver1);
